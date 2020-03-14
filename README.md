@@ -1,6 +1,10 @@
 # GAL-fWSD
 Generative Adversarial Learning Towards Fast Weakly Supervised Detection
 
+By [Yunhang Shen](), [Rongrong Ji](), [Shengchuan Zhang](), [Wangmeng Zuo](), [Yan Wang]().
+
+CVPR 2018 Paper.
+
 ### Citing GAL-fWSD
 
 If you find GAL-fWSD useful in your research, please consider citing:
