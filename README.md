@@ -6,8 +6,8 @@ Generative Adversarial Learning Towards Fast Weakly Supervised Detection
 If you find GAL-fWSD useful in your research, please consider citing:
 
 ```
-@InProceedings{Shen_2018_CVPR,
-author = {Shen, Yunhan and Ji, Rongrong and Zhang, Shengchuan and Zuo, Wangmeng and Wang, Yan},
+@InProceedings{GAL-fWSD_2018_CVPR,
+author = {Shen, Yunhang and Ji, Rongrong and Zhang, Shengchuan and Zuo, Wangmeng and Wang, Yan},
 title = {Generative Adversarial Learning Towards Fast Weakly Supervised Detection},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 year = {2018}
